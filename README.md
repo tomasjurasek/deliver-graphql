@@ -5,7 +5,7 @@ We are providing two types of query:
 * item(codename: String!): ContentItem  
 * items(type: String!, limit: Int, depth: Int, order: String, language: String): [ContentItem]
 
-All content types are inherited from ContentItem object. If you need a specific content type from your query you need to use explicit typing **... on 'SpecificContentType'**. Also if you are using a deeping in the query you need to provide **depth** property.
+All content types are inherited from the ContentItem object. If you need a specific content type from your query you need to use explicit typing **... on 'SpecificContentType'**. Also if you are using a deeping in the query you need to provide **depth** property.
 
 
 ### Example 
