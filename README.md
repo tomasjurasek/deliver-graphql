@@ -21,7 +21,7 @@ query{
         value
       }
       related_articles{
-				name
+	name
         value{
           ... on ArticleContentType {
             title {
