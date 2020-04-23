@@ -9,6 +9,7 @@ All content types are inherited from the ContentItem object. If you need a speci
 
 
 ### Example 
+Sample project - https://deliver-graphql-euwest.azurewebsites.net/975bf280-fd91-488c-994c-2f04416e5ee3/graphql
 #### Get Articles
 ```
 query{
