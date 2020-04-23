@@ -1,7 +1,7 @@
 # Delivery GraphQL Prototype
 
 
-We provided a two types of query:  
+We are providing two types of query:  
 * item(codename: String!): ContentItem  
 * items(type: String!, limit: Int, depth: Int, order: String, language: String): [ContentItem]
 
